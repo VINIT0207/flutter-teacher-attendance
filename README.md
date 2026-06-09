@@ -47,6 +47,8 @@
   <img src="https://github.com/user-attachments/assets/a432c73c-8d7f-4ae0-83c7-dead5b57b831" width="120" alt="Take Attendance" />
   <img src="https://github.com/user-attachments/assets/8374b335-b0da-465d-a859-db4bf3b72e5a" width="120" alt="Student List" />
   <img src="https://github.com/user-attachments/assets/a23fab8c-dcdb-436f-a557-2302ac837e16" width="120" alt="Class Analytics" />
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/8dfa8172-7c64-4b94-ad2b-eb39b3e59399" width="120" alt="Student Statistics" />
   <img src="https://github.com/user-attachments/assets/212292df-dbd6-4700-b252-6c290f191080" width="120" alt="Attendance Report" />
   <img src="https://github.com/user-attachments/assets/f68189da-1c8f-4b97-91db-15fbc8d42a15" width="120" alt="Settings" />
