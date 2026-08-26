@@ -228,8 +228,8 @@ flutter install
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/VINIT0207/classtrack-attendance-app.git
-   cd classtrack-attendance-app
+   git clone https://github.com/VINIT0207/flutter-teacher-attendance.git
+   cd flutter-teacher-attendance
    ```
 
 2. **Install Dependencies**:
