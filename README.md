@@ -1,3 +1,16 @@
+# 🎓 ClassTrack
+
+> ### 🚨 MAJOR ARCHITECTURE UPDATE INBOUND (v2.0.0-alpha)
+> **NOTICE:** This repository is currently undergoing a complete **0-to-1 engineering refactor**. We are migrating the legacy, tightly coupled prototype commits visible in the history into an enterprise-grade, decoupled **MVVM structural layout**. This update isolates asynchronous database mutations, enforces strict state boundaries, and completely eliminates runtime concurrent execution crashes. 
+
+#### 📸 v2.0.0 Dashboard Preview Look:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/670673ee-1992-40d2-8441-437a0b7dacf4" width="300" alt="ClassTrack v2.0.0 UI Dashboard Preview" />
+</p>
+
+---
+
+
 <h1 align="center">ClassTrack - Smart Teacher Attendance App 📝</h1>
 
 <p align="center">
