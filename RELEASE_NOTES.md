@@ -34,10 +34,14 @@
   - Multi-session period attendance linked directly to individual course topics (e.g., *Data Structures & Algorithms*).
   - Explicit timetable association per attendance session.
 
-### 3. ⚡ Rapid Focus Card & List Batch Attendance Marking
-* **Focus Card Mode**: Presents one student card at a time with large high-contrast tactile buttons (`Present`, `Absent`, `Late`) and automated auto-advance for lightning-fast individual marking.
-* **List Batch Mode**: Fast whole-roster table view with live search filtering and a 1-tap **"Mark All Present"** master shortcut.
-* **Live Session Pulse**: Real-time progress bar and instant counters for present, absent, and late students updated with every action.
+### 3. ⚡ Dual Attendance Workflows (List View & Focus Card)
+* **📋 Interactive List View (Primary Roster Mode)**:
+  - **Full Class Overview**: Scrollable, high-contrast table view displaying every student's initials, name, and roll number simultaneously.
+  - **1-Tap Status Toggles**: Direct `Present` (🟢), `Absent` (🔴), and `Late` (🟡) pill selectors for zero-friction status updates.
+  - **Master Batch Shortcuts**: 1-tap **"Mark All Present"** or **"Mark All Absent"** buttons on the floating dock and menu to complete routine roll calls in seconds.
+  - **Instant Search & Filter**: Real-time search bar to instantly find students by name or roll number.
+* **📇 Focus Card Mode**: Presents one student card at a time with large tactile buttons (`Present`, `Absent`, `Late`) and automated auto-advance for focused verification.
+* **💓 Live Telemetry Pulse**: Real-time progress bar and live counters for present, absent, and late students with color-coded percentage turnout updated with every action.
 
 ### 4. 🚨 Real-Time Defaulter Detection & Exam Risk Analytics
 * **Automated Threshold Evaluation**: Calculates live attendance percentages against customizable exam eligibility criteria (default: **75%**).

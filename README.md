@@ -53,10 +53,14 @@ Switch effortlessly between tracking methodologies tailored for different educat
   - Multi-session period attendance linked directly to individual course topics (e.g., *Data Structures & Algorithms*).
   - Distinctly associates attendance records with individual timetable slots.
 
-### 3. ⚡ Rapid Focus Card & List Batch Attendance
-- **Focus Card Mode**: Displays one student card at a time with large high-contrast tactile action buttons (`Present`, `Absent`, `Late`) and automated auto-advance for rapid individual roll calls.
-- **List Batch Mode**: Toggle individual student statuses in a full roster table view with live search filtering and a 1-tap **"Mark All Present"** master shortcut.
-- **Live Session Pulse**: Real-time progress bar and instant counts of present, absent, and late students updated with every tap.
+### 3. ⚡ Dual Attendance Workflows (List View & Focus Card)
+- **📋 Interactive List View (Primary Roster Mode)**:
+  - **Full Class Overview**: View your entire student roster in a scrollable, high-contrast list with student initials, names, and roll numbers.
+  - **1-Tap Status Toggles**: Direct `Present` (🟢), `Absent` (🔴), and `Late` (🟡) pill selectors for rapid status switching without extra taps.
+  - **Master Batch Shortcuts**: 1-tap **"Mark All Present"** or **"Mark All Absent"** buttons on the floating dock and menu to complete routine roll calls in seconds.
+  - **Instant Search & Filter**: Built-in real-time search bar to immediately filter students by name or roll number on the fly.
+- **📇 Focus Card Mode**: Displays one student card at a time with large tactile action buttons (`Present`, `Absent`, `Late`) and automated auto-advance for focused individual verification.
+- **💓 Live Telemetry Pulse**: Top telemetry banner dynamically recalculates present/absent counters and color-coded percentage turnout in real-time as you mark.
 
 ### 4. 🚨 Real-Time Defaulter Detection & Exam Risk Analytics
 - **Live Percentage Calculation**: Automatically evaluates individual attendance percentages against your required threshold (customizable from 50% to 90%, defaulting to **75%**).
