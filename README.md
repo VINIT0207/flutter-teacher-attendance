@@ -18,7 +18,7 @@
 
 ## 📖 Overview
 
-**ClassTrack** is an ultra-premium, privacy-first classroom attendance, timetable management, and student analytics application built with **Flutter**. Designed with a cutting-edge **High-Contrast Midnight Dark Theme** and **Liquid Glassmorphism**, ClassTrack replaces tedious manual paper registers and slow cloud checklists with a lightning-fast, gesture-based flashcard workflow and intelligent attendance trend analytics that operate **100% offline without any user data ever leaving the device**.
+**ClassTrack** is an ultra-premium, privacy-first classroom attendance, timetable management, and student analytics application built with **Flutter**. Designed with a cutting-edge **High-Contrast Midnight Dark Theme** and **Liquid Glassmorphism**, ClassTrack replaces tedious manual paper registers and slow cloud checklists with a lightning-fast, card-based roll call and intelligent attendance trend analytics that operate **100% offline without any user data ever leaving the device**.
 
 ---
 
@@ -53,12 +53,9 @@ Switch effortlessly between tracking methodologies tailored for different educat
   - Multi-session period attendance linked directly to individual course topics (e.g., *Data Structures & Algorithms*).
   - Distinctly associates attendance records with individual timetable slots.
 
-### 3. ⚡ Ultra-Fast Gesture & Flashcard Attendance
-- **Flashcard Mode**: Displays one student card at a time with large tactile action buttons (`Present`, `Absent`, `Late`) and intuitive swipe gestures:
-  - 🟢 **Swipe Right**: Mark *Present*
-  - 🔴 **Swipe Left**: Mark *Absent*
-  - 🟡 **Swipe Up**: Mark *Late*
-- **List Batch Mode**: Toggle individual student statuses in a full roster view with a 1-tap **"Mark All Present"** master shortcut.
+### 3. ⚡ Rapid Focus Card & List Batch Attendance
+- **Focus Card Mode**: Displays one student card at a time with large high-contrast tactile action buttons (`Present`, `Absent`, `Late`) and automated auto-advance for rapid individual roll calls.
+- **List Batch Mode**: Toggle individual student statuses in a full roster table view with live search filtering and a 1-tap **"Mark All Present"** master shortcut.
 - **Live Session Pulse**: Real-time progress bar and instant counts of present, absent, and late students updated with every tap.
 
 ### 4. 🚨 Real-Time Defaulter Detection & Exam Risk Analytics
